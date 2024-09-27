@@ -1,3 +1,3 @@
 # comp2245-assignent1
 
-This is assignment for Ronnie Samuel
+This is Assignment 1 for Ronnie Samuel
